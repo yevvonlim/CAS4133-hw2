@@ -1,0 +1,16 @@
+[project]
+name = "cas4133"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bitsandbytes>=0.45.5",
+    "gdown>=5.2.0",
+    "huggingface-hub>=0.31.4",
+    "ipykernel>=6.29.5",
+    "torch>=2.7.0",
+    "transformers>=4.51.3",
+    "unsloth>=2025.5.7",
+    "wandb>=0.19.11",
+]
