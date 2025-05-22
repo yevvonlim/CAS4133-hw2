@@ -1,0 +1,7 @@
+pyproject.toml filter=lfs diff=lfs merge=lfs -text
+unsloth_compiled_cache filter=lfs diff=lfs merge=lfs -text
+uv.lock filter=lfs diff=lfs merge=lfs -text
+CAS4133-assn2.ipynb filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+outputs filter=lfs diff=lfs merge=lfs -text
